@@ -62,7 +62,7 @@ Possible classifications include:
 - Medium Priority
 - Low Priority
 
-![Priority Output](images/priority-output.png)
+
 
 ---
 
